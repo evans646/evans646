@@ -1,3 +1,4 @@
+Focusing 🎯
 <!--
 **evans646/evans646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
  -->
  ![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evans646&theme=react&show_icons=true)
  
-![](https://github.com/evans/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/evans646/github-stats/blob/master/generated/overview.svg)
 
 
 
