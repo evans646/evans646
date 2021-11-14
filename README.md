@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **evans646/evans646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans646&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans646&langs_count=8)](https://github.com/evans646/github-readme-stats)
+ -->
+ ![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evans646&theme=dark&show_icons=true)
