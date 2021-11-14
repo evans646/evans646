@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans646&langs_count=8)](https://github.com/evans646/github-readme-stats)
  -->
- ![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evans646&theme=dark&show_icons=true)
+ ![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evans646&theme=react&show_icons=true)
