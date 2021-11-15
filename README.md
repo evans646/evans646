@@ -1,4 +1,4 @@
-Focusing 🎯
+Hi there you are welcome to my profile 👌
 <!--
 **evans646/evans646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
