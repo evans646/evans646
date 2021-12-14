@@ -1,3 +1,4 @@
+
 <h3>Hey there! 👋 </h3>
 
 > I'm Evans, Software Developer from  Ghana 🇬🇭 , currently living and schooling in Accra.
@@ -5,18 +6,18 @@
 ![](https://komarev.com/ghpvc/?username=evans646)
 
 <h3>
-    Read my blog posts:
+    Read my blog posts 🔖 
 </h3>
-<ol style="listStyle:none" >
+<ul style="listStyle:none" >
     <li>
         <a href="https://evansblog.hashnode.dev/building-restful-apis">BUILDING RESTful APIs</a>
     </li>
     <li>
         <a href="https://evansblog.hashnode.dev/databases">Databases</a>
     </li>
-</ol>
+</ul>
 <h3>
-  Languages, Tools & Databases:
+  Languages, Tools & Databases ⚖️
 </h3>
 
 <p align='left' dir='auto'>
@@ -27,7 +28,7 @@
 </p>
 
  <h3>
-    My github stats 📉
+    My Github stats 📉
 </h3>
 
 ![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evans646&show_icons=true&theme=radical)
@@ -35,11 +36,11 @@
 
 - 🔭 I’m currently working on side projects to hone my skills  while studying in school!
 - 👯 I’m looking to collaborate on projects that solves real wold problems and helps us learn at the same time!
-- 💬 Ask me about anthing!
-- 📫 You can reach me on: jw207740@gmail.com
+- 💬 Ask me about anthing! 
+- 📧 You can reach me on: jw207740@gmail.com
 
 <h3>
-    Or connect with me via:
+    Or connect with me 📲 
 </h3>
 
  <p align='left' dir='auto'>
@@ -59,11 +60,7 @@
     I love music and so you know the drill as i am listening to 🎧 🎶 
 </h3>
 
-    
-<a href="https://open.spotify.com/user/badman1q?si=9d171ac12b6e4994">
 
-    
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-</a>
 
