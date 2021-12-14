@@ -1,4 +1,7 @@
-Hi there you are welcome to my profile 👌
+<h4>Hey! Nice to see you 👋</h4>
+
+I'm Alex, Software Developer from  Sofia, Bulgaria, currently living in  Eindhoven, Netherlands.
+Working @ Cytosmart Technologies BV.
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning ...
