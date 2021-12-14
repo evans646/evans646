@@ -60,7 +60,7 @@
 </h3>
 
 <p dir="auto">
-    <a href='#'>
+    
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=default&bar_color=1b75a1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-    </a>
+
 </p>
