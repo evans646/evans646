@@ -57,7 +57,7 @@
 
 
 <h3>
-    I love music and so you know the drill as i am listening to 🎧 🎶 
+    I love music and so you know the drill 🎧 🎶 
 </h3>
 
 
