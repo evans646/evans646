@@ -34,6 +34,8 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"  width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png" width="40" height="40"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" height="40"/>
 </p>
 
  <h3>
