@@ -44,7 +44,7 @@
 
  <p align='left' dir='auto'>
  <a href="https://www.linkedin.com/in/evansprofile/">
-    <img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-linkedin-social-media-justicon-flat-justicon.png"  width="40" height="40"/>
+     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"  width="40" height="40"/>
  </a>
  <a href="https://web.facebook.com/evansodeneho.ansong/">
     <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"  width="40" height="40"/>
