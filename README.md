@@ -2,7 +2,7 @@
 
 <h3>Hey! nice to see you 👋</h3>
 
-I'm Evans, Software Developer from  Ghana currently living and schooling in Accra.
+> I'm Evans, Software Developer from  Ghana currently living and schooling in Accra.
 
 ![](https://komarev.com/ghpvc/?username=evans646)
 
@@ -31,7 +31,7 @@ I'm Evans, Software Developer from  Ghana currently living and schooling in Accr
  <h3>
     My stats 📉
 </h3>
-![](https://github.com/evans646/github-stats/blob/master/generated/overview.svg)
+![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evans646&show_icons=true&theme=radical)
 
 
 - 🔭 I’m currently working on side projects to hone my skills  while studying in school!
