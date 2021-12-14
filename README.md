@@ -1,4 +1,4 @@
-<h3>Hey there! welcome to my profile 👋, i a very excited to see you 😀 </h3>
+<h3>Hey there! 👋 </h3>
 
 > I'm Evans, Software Developer from  Ghana 🇬🇭 , currently living and schooling in Accra.
 
