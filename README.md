@@ -48,7 +48,7 @@ I'm Evans, Software Developer from  Ghana currently living and schooling in Accr
     <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"  width="40" height="40"/>
  </a>
  <a href="https://web.facebook.com/evansodeneho.ansong/">
-    <img src="https://img.icons8.com/fluency/64/000000/facebook-new.png"  width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"  width="40" height="40"/>
  </a>
  <a href="https://www.instagram.com/loveyours.164/">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"  width="40" height="40">
@@ -57,7 +57,7 @@ I'm Evans, Software Developer from  Ghana currently living and schooling in Accr
 
 
 <h3>
-    I love usic so you know the drill as i  am listening to 🎧 🎶 
+    I love music so you know the drill as i am listening to 🎧 🎶 
 </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=default&bar_color=1b75a1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
