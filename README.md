@@ -24,8 +24,7 @@ I'm Evans, Software Developer from  Ghana currently living and schooling in Accr
 <h3>
   Languages and Tools:
 </h3>
-
-<a href="https://icons8.com/icon/EAUyKy3IwmqM/html-5">Html 5 icon by Icons8</a>
+<img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
 
 
 - 🔭 I’m currently working on side projects to hone my skills  while studying in school!
