@@ -31,8 +31,8 @@ I'm Evans, Software Developer from  Ghana currently living and schooling in Accr
  <h3>
     My stats 📉
 </h3>
+![](https://github.com/evans646/github-stats/blob/master/generated/overview.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans646&langs_count=8)](https://github.com/evans646/github-readme-stats)
 
 - 🔭 I’m currently working on side projects to hone my skills  while studying in school!
 - 👯 I’m looking to collaborate on projects that solves real wold problems and helps us learn at the same time!
@@ -55,17 +55,9 @@ I'm Evans, Software Developer from  Ghana currently living and schooling in Accr
  </a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans646&langs_count=8)](https://github.com/evans646/github-readme-stats)
- -->
-
- 
-![](https://github.com/evans646/github-stats/blob/master/generated/overview.svg)
-
-
-![](https://github.com/evans646/github-stats/blob/master/generated/overview.svg)
 
 <h3>
-    I am listening to 🎧 🎶 
+    I love usic so you know the drill as i  am listening to 🎧 🎶 
 </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=default&bar_color=1b75a1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
