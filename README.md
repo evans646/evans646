@@ -59,8 +59,6 @@
     I love music and so you know the drill as i am listening to 🎧 🎶 
 </h3>
 
-<p dir="auto">
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-</p>
