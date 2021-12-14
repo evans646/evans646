@@ -4,7 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=evans646)
 
-<a href="https://app.daily.dev/EVANS"><img src="https://api.daily.dev/devcards/69ef8c2f6199463f8000f978a7e11702.png?r=1xb" width="300" alt="evans ansong's Dev Card"/></a>
+<a href="https://app.daily.dev/EVANS"><img src="https://api.daily.dev/devcards/69ef8c2f6199463f8000f978a7e11702.png?r=1xb" width="300" style="float:right" alt="evans ansong's Dev Card"/></a>
+
 
 <h3>
     Read my blog posts 🔖 
