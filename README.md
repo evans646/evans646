@@ -5,7 +5,7 @@
 
 I'm Evans, Software Developer from  Ghana currently living and schooling in Accra.
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=evans646)
 
 <h3>
     Read my blog posts:
