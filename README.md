@@ -38,6 +38,10 @@
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" height="40"/>
 </p>
 
+I am usually working with the MERN stack (Mongo, Express, React, Node) or PERN stack (PostgreSQL, Express, React, and Node)
+I love to write Python - Django as well 
+
+
  <h3>
     My Github stats 📉
 </h3>
