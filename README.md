@@ -3,12 +3,9 @@
 <h3>Hey! nice to see you 👋</h3>
 
 <div>
-    ![](https://komarev.com/ghpvc/?username=evans646&label=PROFILE+VIEWS)
-</div>
-
-<div>
 I'm Evans, Software Developer from  Ghana currently living and schooling in Accra.
 </div>
+![](https://komarev.com/ghpvc/?username=evans646&label=PROFILE+VIEWS)
 
 <h3>
     Read my blog posts:
