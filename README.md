@@ -15,5 +15,5 @@ Hi there you are welcome to my profile 👌
  
 ![](https://github.com/evans646/github-stats/blob/master/generated/overview.svg)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=default&bar_color=1b75a1)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=default&bar_color=1b75a1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
