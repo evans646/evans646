@@ -2,7 +2,6 @@
 
 <h3>Hey! nice to see you 👋</h3>
 
-
 I'm Evans, Software Developer from  Ghana currently living and schooling in Accra.
 
 ![](https://komarev.com/ghpvc/?username=evans646)
@@ -10,7 +9,7 @@ I'm Evans, Software Developer from  Ghana currently living and schooling in Accr
 <h3>
     Read my blog posts:
 </h3>
-<ol>
+<ol desc='none'>
     <li>
         <a href="https://evansblog.hashnode.dev/building-restful-apis">BUILDING RESTful APIs</a>
     </li>
@@ -21,46 +20,12 @@ I'm Evans, Software Developer from  Ghana currently living and schooling in Accr
 <h3>
   Languages and Tools:
 </h3>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
+  <img src="https://img.icons8.com/color/50/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
-<style>
-    ul.language-icons {
-      margin: 0;
-      padding: 0;
-      position: absolute;
-      right: 0;
-      top: 15px;
-    }
-    
-    ul.language-icons li {
-      display: inline-block;
-      float: left;
-      list-style: none;
-      margin-right: 10px;
-    }
-    </style>
-    <ul class="language-icons">
-      <li>
-          <a href="/">
-            <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
-          </a>	
-      </li>
-      <li>
-          <a href="/ru">
-            <img src="https://img.icons8.com/color/50/000000/css3.png"/>
-          </a>	
-      </li>
-      <li>
-          <a href="/en">
-            <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-          </a>	
-      </li>
-      <li>
-          <a href="/en">
-            <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-          </a>	
-      </li>
-    </ul>  
-    
+  
 
 - 🔭 I’m currently working on side projects to hone my skills  while studying in school!
 - 👯 I’m looking to collaborate on projects that solves real wold problems and helps us learn at the same time!
