@@ -1,4 +1,3 @@
-
 <h3>Hey there! 👋 </h3>
 
 > I'm Evans, Software Developer from  Ghana 🇬🇭 , currently living and schooling in Accra.
@@ -25,6 +24,16 @@
 <img src="https://img.icons8.com/color/50/000000/css3.png" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"width="40" height="40" />
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/50/000000/sass.png"  width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/material-ui.png"  width="40" height="40"/>
+<img src="https://img.icons8.com/doodle/32/000000/canva.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"  width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png"  width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"  width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/django.png"  width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"  width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"  width="40" height="40"/>
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"  width="40" height="40"/>
 </p>
 
  <h3>
@@ -57,7 +66,7 @@
 
 
 <h3>
-    I love music and so you know the drill 🎧 🎶 
+    I love music and so you know the drill as i am listening to 🎧 🎶 
 </h3>
 
 
