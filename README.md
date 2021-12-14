@@ -61,6 +61,6 @@
 
 <p dir="auto">
     
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=Novatorem theme&bar_color=1b75a1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=Novatoremtheme&bar_color=1b75a1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </p>
