@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=evans646)
 <hr>
 <div style="justifyContent:right" align='right' >
-  <a href="https://app.daily.dev/EVANS"><img src="https://github.com/evans646/evans646/blob/main/devcard.svg" width="400" alt="Evans's Dev Card"/></a>
+  <a href="https://app.daily.dev/EVANS"><img src="https://github.com/evans646/evans646/blob/main/devcard.svg" width="200" alt="Evans's Dev Card"/></a>
 </div>
 <hr>
 <h3>
