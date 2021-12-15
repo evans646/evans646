@@ -15,6 +15,11 @@
         <a href="https://evansblog.hashnode.dev/databases"  target="_blank">Databases</a>
     </li>
 </ul>
+
+<a href="https://evansblog.hashnode.dev/databases">
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url="https://hashnode-blog-cards.vercel.app/api/API_ENDPOINT?PARAMS" alt=" Evans's Hashnode Blog Cards" />
+</a>
+
 <h3>
   Languages, Tools & Databases ⚖️
 </h3>
