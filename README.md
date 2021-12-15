@@ -1,6 +1,6 @@
 <h3>Hey there! 👋 </h3>
 
-> I'm Evans, Software Developer from  Ghana 🇬🇭 , currently living and schooling in Accra.
+> I'm Evans, <b>Full-Stack Developer</b> from  Ghana 🇬🇭 , currently living and schooling in Accra.
 
 ![](https://komarev.com/ghpvc/?username=evans646)
 <hr>
