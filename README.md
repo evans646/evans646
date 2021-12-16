@@ -48,6 +48,8 @@ I love to write Python - Django as well
     My Github stats 📉
 </h3>
 
+[![Evans's github stats](https://github-readme-stats.vercel.app/api?username=evans646)](https://github.com/evans646/github-readme-stats)
+
 ![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evans646&show_icons=true&theme=radical)
 
 
