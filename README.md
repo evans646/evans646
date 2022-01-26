@@ -43,6 +43,8 @@
 <img src="/logos/netlify.png"  width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/heroku.png" width="50" height="50"/>
 <img src="/logos/postman.png" width="50" height="50"/>
+<img src="/logos/npm.png" width="50" height="50"/>
+<img src="/logos/node.png" width="50" height="50"/>
 </p>
 
 I am usually working with the MERN stack (Mongo, Express, React, Node) or PERN stack (PostgreSQL, Express, React, and Node)
