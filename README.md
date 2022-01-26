@@ -33,14 +33,14 @@
 <img src="https://img.icons8.com/color/48/000000/material-ui.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/doodle/32/000000/canva.png" width="40" height="40"/>
 <img  src="/logos/react.png"  width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/redux.png"  width="40" height="40"/>
+<img src="/logos/redux.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/django.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/heroku.png" width="40" height="40"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" height="40"/>
+<img src="/logos/postman.png" width="50" height="50"/>
 </p>
 
 I am usually working with the MERN stack (Mongo, Express, React, Node) or PERN stack (PostgreSQL, Express, React, and Node)
