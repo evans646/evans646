@@ -53,7 +53,7 @@ I love to write Python - Django as well
 
 
  <h3>
-    My Github stats 📉
+ Github stats 📉
 </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans646&layout=compact)](https://github.com/evans646/github-readme-stats)
@@ -79,6 +79,12 @@ I love to write Python - Django as well
  </a>
  <a href="https://www.instagram.com/loveyours.164/">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"  width="40" height="40">
+ </a>
+ <a href="https://twitter.com/evansansongg">
+    <img src="/logos/twitter.png"  width="40" height="40">
+ </a>
+ <a href="https://www.quora.com/profile/Evans-Ansong">
+    <img src="/logos/quoralogo.webp"  width="40" height="40">
  </a>
 </p>
 
