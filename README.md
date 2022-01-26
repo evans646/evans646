@@ -44,6 +44,7 @@
 <img src="https://img.icons8.com/color/48/000000/heroku.png" width="50" height="50"/>
 <img src="/logos/postman.png" width="50" height="50"/>
 <img src="/logos/npm.png" width="50" height="50"/>
+<img src="/logos/download.svg" width="50" height="50"/>
 <img src="/logos/node.png" width="50" height="50"/>
 </p>
 
