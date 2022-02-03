@@ -51,16 +51,6 @@
 I am usually working with the MERN stack (Mongo, Express, React, Node) or PERN stack (PostgreSQL, Express, React, and Node)
 I love to write Python - Django as well 
 
-
- <h3>
- Github stats 📉
-</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans646&layout=compact)](https://github.com/evans646/github-readme-stats)
-
-![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evans646&show_icons=true&theme=radical)
-
-
 - 🔭 I’m currently working on side projects to hone my skills  while studying in school!
 - 👯 I’m looking to collaborate on projects that solves real world problems and helps us learn at the same time!
 - 💬 Ask me about anthing! 
