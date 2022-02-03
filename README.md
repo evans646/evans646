@@ -62,7 +62,7 @@ I love to write Python - Django as well
 
 
 - 🔭 I’m currently working on side projects to hone my skills  while studying in school!
-- 👯 I’m looking to collaborate on projects that solves real wold problems and helps us learn at the same time!
+- 👯 I’m looking to collaborate on projects that solves real world problems and helps us learn at the same time!
 - 💬 Ask me about anthing! 
 - 📧 You can reach me on: jw207740@gmail.com
 
