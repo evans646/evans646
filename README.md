@@ -40,6 +40,7 @@
 <img src="/logos/4691328_postgresql_icon.png"  width="50" height="50"/>
 <img src="/logos/mysql.png"  width="50" height="50"/>
 <img src="/logos/google_c.png"  width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"  width="50" height="50"/>
 <img src="/logos/netlify.png"  width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/heroku.png" width="50" height="50"/>
 <img src="/logos/postman.png" width="50" height="50"/>
