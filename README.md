@@ -91,5 +91,4 @@ I love to write Python - Django as well
    Support me a Coffee
 </h3>
 
-<img src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="evans646" data-color="#40DCA5" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" />
-
+<a href="https://www.buymeacoffee.com/evans646" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
