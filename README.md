@@ -9,13 +9,7 @@
 </h3>
 <ul style="listStyle:none" >
     <li>
-        <a href="https://evansblog.hashnode.dev/building-restful-apis" target="_blank">BUILDING RESTful APIs</a>
-    </li>
-    <li>
-        <a href="https://evansblog.hashnode.dev/databases"  target="_blank">Databases</a>
-    </li>
-    <li>
-        <a href="https://evansblog.hashnode.dev/understanding-jwt-jsonwebtoken"> Understanding Jwt -jsonwebtoken </a>
+        <a href="https://evansblog.hashnode.dev/" target="_blank">Evans's Blog</a>
     </li>
 </ul>
 
