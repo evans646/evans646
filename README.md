@@ -9,13 +9,7 @@
 </h3>
 <ul style="listStyle:none" >
     <li>
-        <a href="https://evansblog.hashnode.dev/building-restful-apis" target="_blank">BUILDING RESTful APIs</a>
-    </li>
-    <li>
-        <a href="https://evansblog.hashnode.dev/databases"  target="_blank">Databases</a>
-    </li>
-    <li>
-        <a href="https://evansblog.hashnode.dev/understanding-jwt-jsonwebtoken"> Understanding Jwt -jsonwebtoken </a>
+        <a href="https://evansblog.hashnode.dev/" target="_blank">Evans's Blog</a>
     </li>
 </ul>
 
@@ -88,5 +82,9 @@ I love to write Python - Django as well
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h3>
-   Support me with 
+   Support Me 
 </h3>
+<<<<<<< HEAD
+=======
+<a href="https://www.buymeacoffee.com/evans646" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+>>>>>>> a0da0dce70b0050707fa41f1e5214d329433d57e
