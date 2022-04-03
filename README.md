@@ -84,5 +84,5 @@ I love to write Python - Django as well
 <h3>
    Support Me 
 </h3>
-
-<a href="https://www.buymeacoffee.com/evans646" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<!-- 
+<a href="https://www.buymeacoffee.com/evans646" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> -->
