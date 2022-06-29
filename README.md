@@ -1,11 +1,11 @@
-<h3 style='color:red'>Hey Welcome! 👋 </h3>
+<h3 style='color:red'>Hey Welcome! To My Profile 👋 </h3>
 
 > I'm Evans, <b>Full-Stack Developer</b> from  Ghana 🇬🇭 , currently living and schooling in Accra.
 
 ![](https://komarev.com/ghpvc/?username=evans646)
 <hr>
 <h3>
-    Read my blog posts 
+    Read My Blog Posts 
 </h3>
 <ul style="listStyle:none" >
     <li>
