@@ -1,4 +1,4 @@
-<h3>Hey there! 👋 </h3>
+<h3 style='color:red'>Hey Welcome! 👋 </h3>
 
 > I'm Evans, <b>Full-Stack Developer</b> from  Ghana 🇬🇭 , currently living and schooling in Accra.
 
@@ -80,9 +80,3 @@ I love to write Python - Django as well
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<!-- 
-<h3>
-   Support Me 
-</h3> -->
-<!-- 
-<a href="https://www.buymeacoffee.com/evans646" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> -->
