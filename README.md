@@ -40,8 +40,6 @@
 I am usually working with the MERN stack (Mongo, Express, React, Node) or PERN stack (PostgreSQL, Express, React, and Node)
 I love to write Python - Django as well 
 
-- 🔭 I’m currently working on side projects to hone my skills  while studying in school!
-- 👯 I’m looking to collaborate on projects that solves real world problems and helps us learn at the same time!
 - 💬 Ask me about anthing! 
 - 📧 You can reach me on: jw207740@gmail.com
 
