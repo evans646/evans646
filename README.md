@@ -68,11 +68,3 @@ I love to write Python - Django as well
     <img src="/logos/quoralogo.webp"  width="40" height="40">
  </a>
 </p>
-
-
-<h3>
-    I love music and so you know the drill  🎧 🎶 
-</h3>
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=badman1q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
