@@ -1,7 +1,5 @@
-<h3 style='color:red'>HELLO </h3>
+<h3 style='color:red'>HELLO, WELCOME TO MY PROFILE </h3>
 
-
-![](https://komarev.com/ghpvc/?username=evans646)
 <hr>
 <h3>
     Read My Blog Posts 
