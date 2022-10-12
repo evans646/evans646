@@ -1,6 +1,5 @@
-<h3 style='color:red'>Hey Welcome! To My Profile 👋 </h3>
+<h3 style='color:red'>HELLO </h3>
 
-> I'm Evans, <b>Full-Stack Developer</b> from  Ghana 🇬🇭 , currently living and schooling in Accra.
 
 ![](https://komarev.com/ghpvc/?username=evans646)
 <hr>
@@ -12,12 +11,9 @@
         <a href="https://evansblog.hashnode.dev/" target="_blank">Evans's Blog</a>
     </li>
 </ul>
-
-
 <h3>
   Languages, Tools & Databases ⚖️
 </h3>
-
 <p align='left' dir='auto'>
 <img src="https://img.icons8.com/color/48/000000/html-5--v2.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/50/000000/css3.png" width="50" height="50"/>
