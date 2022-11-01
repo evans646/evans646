@@ -43,10 +43,14 @@ I love to write Python - Django as well
 - 💬 Ask me about anthing! 
 - 📧 You can reach me on: jw207740@gmail.com
 
+
+
 <h3>
     Or connect with me 
 </h3>
-
+<a> 
+<img src="https://www.linkedin.com/[METHOD]?username=evans646" />
+</a>
  <p align='left' dir='auto'>
  <a href="https://www.linkedin.com/in/evansprofile/">
      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"  width="40" height="40"/>
