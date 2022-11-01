@@ -49,7 +49,7 @@ I love to write Python - Django as well
     Or connect with me 
 </h3>
 <a> 
-<img src="https://www.linkedin.com/[METHOD]?username=evans646" />
+<img src="https://wwww.linkedin.com/[METHOD]?username=evans646" />
 </a>
  <p align='left' dir='auto'>
  <a href="https://www.linkedin.com/in/evansprofile/">
