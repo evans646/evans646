@@ -41,7 +41,7 @@ I am usually working with the MERN stack (Mongo, Express, React, Node) or PERN s
 I love to write Python - Django as well 
 
 - 💬 Ask me about anthing! 
-- 📧 You can reach me on: jw207740@gmail.com
+- 📧 You can reach me on: Evansansongg@gmail.com
 
 
 
