@@ -67,8 +67,4 @@ I love to write Python - Django as well
  </a>
 </p>
 
-<h3>
-    Catch a vibe
-</h3>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=badman1q&cover_image=true&theme=novatorem&show_offline=false&background_color=8fc125&interchange=false&bar_color=1cba17&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
