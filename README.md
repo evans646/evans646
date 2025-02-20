@@ -6,7 +6,7 @@
 </h3>
 <ul style="listStyle:none" >
     <li>
-        <a href="https://evansblog.hashnode.dev/" target="_blank">Evans's Blog</a>
+        <a href="https://evansblog.hashnode.dev/" target="_blank">Latest Posts</a>
     </li>
 </ul>
 <h3>
@@ -46,7 +46,7 @@ I love to write Python - Django as well
 
 
 <h3>
-    Or connect with me 
+    Or Connect With Me 
 </h3>
 
  <p align='left' dir='auto'>
@@ -67,4 +67,9 @@ I love to write Python - Django as well
  </a>
 </p>
 
-
+<h3>
+  Catch A Vibe
+</h3>
+<div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=badman1q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
