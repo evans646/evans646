@@ -32,7 +32,7 @@ I love to write Python - Django, Rest Framework
  </a>
 </div>
 <div>
- <a href="https://www.instagram.com/loveyours.164/">
+ <a href="https://www.instagram.com/grayman646/">
     Instagram
  </a>
  </div>
