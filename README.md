@@ -37,7 +37,7 @@ I love to write Python - Django, Rest Framework
  </a>
  </div>
  <div>
- <a href="https://twitter.com/evansansongg">Twitter</a>
+ <a href="https://x.com/grayman646">X</a>
   </div>
  <div>
  <a href="https://www.quora.com/profile/Evans-Ansong">Quora</a>
