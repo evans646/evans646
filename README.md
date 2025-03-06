@@ -1,4 +1,5 @@
-    <h3>HI, WELCOME</h3>
+
+<h3>HI, WELCOME</h3>
 <hr>
 <h3>
     Read My Blog Posts 
@@ -20,7 +21,12 @@ I love to write Python - Django, Rest Framework
     Or Connect With Me on 
 </h3>
 
+
  <p align='left' dir='auto'>
+ <h3>
+    Or Connect With Me on 
+</h3>
+
  <a href="https://www.linkedin.com/in/evansprofile/">
    LinkedIn
  <a href="https://web.facebook.com/evansodeneho.ansong/">
