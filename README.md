@@ -17,11 +17,6 @@ I love to write Python - Django, Rest Framework
 - 💬 Ask me about anthing! 
 - 📧 You can reach me on: Evansansongg@gmail.com
 
-<h3>
-    Or Connect With Me on 
-</h3>
-
-
  <p align='left' dir='auto'>
  <h3>
     Or Connect With Me on 
