@@ -21,17 +21,24 @@ I love to write Python - Django, Rest Framework
  <h3>
     Or Connect With Me on 
 </h3>
-
- <a href="https://www.linkedin.com/in/evansprofile/">
+<div>
+ <a href="https://www.linkedin.com/in/evans646/">
    LinkedIn
+</a>
+</div>
+<div>
  <a href="https://web.facebook.com/evansodeneho.ansong/">
    Facebook
  </a>
+</div>
+<div>
  <a href="https://www.instagram.com/loveyours.164/">
     Instagram
  </a>
- <a href="https://twitter.com/evansansongg">Twitter
- </a>
- <a href="https://www.quora.com/profile/Evans-Ansong">Quora
- </a>
-</p>
+ </div>
+ <div>
+ <a href="https://twitter.com/evansansongg">Twitter</a>
+  </div>
+ <div>
+ <a href="https://www.quora.com/profile/Evans-Ansong">Quora</a>
+</div>
