@@ -1,9 +1,9 @@
 
 <h3>HI, WELCOME</h3>
 <hr>
-<h3>
+<p>
     Read My Blog Posts <a href="https://evansblog.hashnode.dev/" target="_blank">Here</a>
-</h3>
+</p>
 
 I am usually working with the MERN stack (Mongo, Express, React, Node) or PERN stack (PostgreSQL, Express, React, and Node)
 I love to write Python - Django, Rest Framework
