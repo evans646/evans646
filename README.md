@@ -2,14 +2,8 @@
 <h3>HI, WELCOME</h3>
 <hr>
 <h3>
-    Read My Blog Posts 
+    Read My Blog Posts <a href="https://evansblog.hashnode.dev/" target="_blank">Here</a>
 </h3>
-<ul style="listStyle:none" >
-    <li>
-        <a href="https://evansblog.hashnode.dev/" target="_blank">Latest Posts</a>
-    </li>
-</ul>
-
 
 I am usually working with the MERN stack (Mongo, Express, React, Node) or PERN stack (PostgreSQL, Express, React, and Node)
 I love to write Python - Django, Rest Framework
