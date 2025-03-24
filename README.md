@@ -1,5 +1,5 @@
 
-<h3>HI, WELCOME</h3>
+<h3>Hey! There</h3>
 <hr>
 <p>
     Read My Blog Posts <a href="https://evansblog.hashnode.dev/" target="_blank">Here</a>
