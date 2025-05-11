@@ -13,7 +13,7 @@ I love to write Python - Django, Rest Framework
 
  <p align='left' dir='auto'>
  <h3>
-    Or Connect With Me on 
+   Connect With Me on 
 </h3>
 <div>
  <a href="https://www.linkedin.com/in/evans646/">
