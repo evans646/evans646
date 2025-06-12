@@ -37,6 +37,3 @@ I love to write Python - Django, Rest Framework
  <a href="https://www.quora.com/profile/Evans-Ansong">Quora</a>
 </div>
 
-## 🎧Buzzing this now on Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=badman1q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
