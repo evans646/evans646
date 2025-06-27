@@ -1,4 +1,3 @@
-
 <h3>Hey! There</h3>
 <hr>
 <p>
@@ -36,3 +35,5 @@ I love to write Python - Django, Rest Framework
  <div>
  <a href="https://www.quora.com/profile/Evans-Ansong">Quora</a>
 </div>
+
+![Boswer GIF](https://media.tenor.com/Ocj-F-hEaUQAAAAi/music-spotify.gif)
